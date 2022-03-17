@@ -1,0 +1,17 @@
+module.exports={
+    helpDialog:'helpDialogs',
+    helpDialogWF1:'helpDialogWF1',
+    rootDialog:'rootDialog',
+    parseMessageWF:'parseMessage',
+    dialogAccessor:'dialogAccessor',
+    applyLeaveDialog:'applyLeaveDialog',
+    applyLeaveDialogWF1:'applyLeaveDialogWF1',
+    choicePromptDialog:'choicePromptDialog',
+    numberPromptDialog:'numberPromptDialog',
+    textPromptDialog:'textPromptDialog',
+    applyLeaveDialogwithformWF:'applyLeaveDialogwithformWF',
+    email:'email',
+    leaveStatus:'leaveStatus',
+    leaveStatusWF:'leaveStatusWF',
+    textPromptDialogLS:'textPromptDialogLS'
+}
